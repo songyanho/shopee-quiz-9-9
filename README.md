@@ -10,3 +10,16 @@ Based on the map below, and given that stepping on the petrol kiosk box for refu
 i) How many steps will the shortest path be?
 ii) Using your answer to i), how many of such paths can the employee possibly take to get from Start to End?
 (e.g. if your answer to i) is 100, how many 100-step paths can the employee take from Start to End?)
+
+## Answer
+
+Format: (**column**, **row**)
+
+4 possible paths with shortest distance of 20.
+
+```
+(0,0) - (2,5) - (3,8) - (7,8) - (9,9) - Distance: 20 
+(0,0) - (2,5) - (5,4) - (7,8) - (9,9) - Distance: 20 
+(0,0) - (3,0) - (5,4) - (7,8) - (9,9) - Distance: 20 
+(0,0) - (3,0) - (6,2) - (7,8) - (9,9) - Distance: 20 
+```
