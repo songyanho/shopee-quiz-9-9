@@ -10,4 +10,5 @@ ii) Using your answer to i), how many of such paths can the employee possibly ta
 (e.g. if your answer to i) is 100, how many 100-step paths can the employee take from Start to End?)
 
 
-Solved by [Songyan Ho](https://www.linkedin.com/in/hosongyan)
+
+## Solved by [Songyan Ho](https://www.linkedin.com/in/hosongyan)
