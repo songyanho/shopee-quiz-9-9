@@ -148,7 +148,6 @@ public class ShopeeQuiz {
     public static void main(String[] args) {
         ShopeeQuiz quiz = new ShopeeQuiz();
         quiz.generatePath();
-        System.out.println(quiz.origin);
     }
 }
 
